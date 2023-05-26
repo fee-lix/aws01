@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./HB06.svg";
 import "@aws-amplify/ui-react/styles.css";
 import {
   withAuthenticator,
@@ -14,7 +14,7 @@ function App({ signOut }) {
     <View className="App">
       <Card>
         <Image src={logo} className="App-logo" alt="logo" />
-        <Heading level={1}>We now have Auth!</Heading>
+        <Heading level={1}>Hirebuddy ftw!</Heading>
       </Card>
       <Button onClick={signOut}>Sign Out</Button>
     </View>

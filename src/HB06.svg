@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 696 715">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .09em;
+      }
+
+      .cls-2 {
+        fill: #71aea8;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 96px;
+      }
+
+      .cls-3 {
+        letter-spacing: .08em;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #d1c49a;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 6px;
+      }
+
+      .cls-5 {
+        fill: #999;
+      }
+
+      .cls-6 {
+        letter-spacing: .07em;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-5" d="m102,99.9c-6.68,0-12.1,5.42-12.1,12.1v382c0,6.68,5.42,12.09,12.1,12.09s12.1-5.42,12.1-12.09V112c0-6.68-5.42-12.1-12.1-12.1Z"/>
+    <path class="cls-5" d="m311.97,99.9c-6.68,0-12.1,5.42-12.1,12.1v186h-94.37c-6.9,0-12.5,5.6-12.5,12.5s5.6,12.5,12.5,12.5h94.37v171c0,6.68,5.42,12.09,12.1,12.09s12.1-5.42,12.1-12.09V112c0-6.68-5.42-12.1-12.1-12.1Z"/>
+    <path class="cls-5" d="m372.66,124.1h193.34c6.9,0,12.5-5.6,12.5-12.5s-5.6-12.5-12.5-12.5h-193.34c-6.9,0-12.5,5.6-12.5,12.5s5.6,12.5,12.5,12.5Z"/>
+    <path class="cls-5" d="m557,297.77h-96.34c-6.9,0-12.5,5.6-12.5,12.5s5.6,12.5,12.5,12.5h96.34c6.9,0,12.5-5.6,12.5-12.5s-5.6-12.5-12.5-12.5Z"/>
+    <path class="cls-5" d="m566.17,482h-193.35c-6.9,0-12.5,5.6-12.5,12.5s5.6,12.5,12.5,12.5h193.35c6.9,0,12.5-5.6,12.5-12.5s-5.6-12.5-12.5-12.5Z"/>
+  </g>
+  <text class="cls-2" transform="translate(87 655.16)"><tspan class="cls-1" x="0" y="0">H</tspan><tspan class="cls-3" x="71.13" y="0">i</tspan><tspan class="cls-6" x="101.18" y="0">r</tspan><tspan class="cls-3" x="139.2" y="0">ebuddy</tspan></text>
+  <polyline class="cls-4" points="3 623 3 712 248 712"/>
+  <polyline class="cls-4" points="693 92 693 3 448 3"/>
+</svg>
