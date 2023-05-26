@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "aws018b7a6a02": {}
+      },
+      "api": {
+        "aws01": {}
       }
     }
   }
